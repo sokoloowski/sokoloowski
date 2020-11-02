@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Welcome no my GitHub profile! I'm IT specialist and webdev from Nowy Sacz, Poland.
+
+Some info:
+
+- studying at AGH
+- working on intelligent hives
+- using Manjaro Linux as main OS
+
 <!--
 **sokoloowski/sokoloowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
