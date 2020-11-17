@@ -8,6 +8,11 @@ Some info:
 - working on intelligent hives
 - using Manjaro Linux as main OS
 
+WWW:
+
+- [🌐 GitHub Pages](https://sokoloowski.github.io/)
+- [🌐 Sokol👀wski](https://sokoloowski.pl/)
+
 <!--
 **sokoloowski/sokoloowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
