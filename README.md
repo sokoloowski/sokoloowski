@@ -13,6 +13,8 @@ WWW:
 - [🌐 GitHub Pages](https://sokoloowski.github.io/)
 - [🌐 Sokol👀wski](https://sokoloowski.pl/)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=sokoloowski&theme=light&show_icons=true)
+
 <!--
 **sokoloowski/sokoloowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
