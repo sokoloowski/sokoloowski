@@ -13,6 +13,10 @@ WWW:
 - [🌐 GitHub Pages](https://sokoloowski.github.io/)
 - [🌐 Sokol👀wski](https://sokoloowski.pl/)
 
+Fork:
+
+- [Fork repozytorium microsoft/Bringing-Old-Photos-Back-to-Life](https://github.com/sokoloowski/Bringing-Old-Photos-Back-to-Life)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=sokoloowski&theme=light&show_icons=true)
 
 <!--
