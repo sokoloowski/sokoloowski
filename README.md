@@ -5,17 +5,10 @@ Welcome no my GitHub profile! I'm IT specialist and webdev from Nowy Sacz, Polan
 Some info:
 
 - studying at AGH
-- working on intelligent hives
-- using Manjaro Linux as main OS
+- working on intelligent beehives - [🐝 SmartHive](https://smarthive.pl/)
+- ~~using Manjaro Linux as main OS~~ sadly MS Teams works better on Windows...
 
-WWW:
-
-- [🌐 GitHub Pages](https://sokoloowski.github.io/)
-- [🌐 Sokol👀wski](https://sokoloowski.pl/)
-
-Fork:
-
-- [Fork repozytorium microsoft/Bringing-Old-Photos-Back-to-Life](https://github.com/sokoloowski/Bringing-Old-Photos-Back-to-Life)
+WWW: [🌐 Sokol👀wski](https://sokoloowski.pl/)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=sokoloowski&theme=light&show_icons=true)
 
