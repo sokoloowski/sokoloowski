@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome on my GitHub profile! I'm IT specialist and webdev from Nowy Sacz, Poland.
+Welcome on my GitHub profile! I'm an IT specialist and webdev from Nowy Sacz, Poland.
 
 Some info:
 
