@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-Welcome no my GitHub profile! I'm IT specialist and webdev from Nowy Sacz, Poland.
+Welcome on my GitHub profile! I'm IT specialist and webdev from Nowy Sacz, Poland.
 
 Some info:
 
-- studying at AGH
+- studying at AGH (Computer Science and Intelligent Systems)
 - working on intelligent beehives - [🐝 SmartHive](https://smarthive.pl/)
-- ~~using Manjaro Linux as main OS~~ sadly MS Teams works better on Windows...
+- using Manjaro Linux as main OS
 
 WWW: [🌐 Sokol👀wski](https://sokoloowski.pl/)
 
